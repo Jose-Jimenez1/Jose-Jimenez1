@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jose-Jimenez1
 - 👀 I’m interested in develop programs and web pages
 - 🌱 I’m currently learning JavaScript, React, Python, C#, C++, MySQL & PHP
-- 💞️ I’m looking to collaborate on somo apps that really help people and make the thinks a little bit easy
+- 💞️ I’m looking to collaborate with companies that could bring better ways to make solutions
 - 📫 How to reach me via e-mail or Discord (elmilnombrez#7924)
 
 <!---
