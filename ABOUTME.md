@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Jimenez
-- 👀 I’m interested in develop programs, web pages and maybe videogames
+- 👀 I’m interested in data scientist and machine learning
 - 🌱 I’m currently learning JavaScript, React, Python, C#, C++, MySQL & PHP
 - 💞️ I’m looking to collaborate with companies that could bring better ways to make solutions
 - 📫 How to reach me via e-mail 
